@@ -53,6 +53,7 @@ I am a Data Engineer who turned his passion for computers into a career and life
 	![Redshift](https://img.shields.io/badge/Redshift-%238C4FFF?style=for-the-badge&logo=amazonredshift&logoColor=white)
 	![S3](https://img.shields.io/badge/S3-%23569A31?style=for-the-badge&logo=amazons3&logoColor=white)
 	![Lambda](https://img.shields.io/badge/Lambda-%23FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
+![Glue](https://img.shields.io/badge/Glue-%238C4FFF?style=for-the-badge&logo=awsglue&logoColor=white)
 	![EC2](https://img.shields.io/badge/EC2-%23FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
 
 
