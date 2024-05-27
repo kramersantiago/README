@@ -70,6 +70,16 @@ I am a Data Engineer who turned his passion for computers into a career and life
 
 <br>
 
+- **Databases**
+
+	![PostgreSQ;](https://img.shields.io/badge/PostgreSQL-%234169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+	![MySQL](https://img.shields.io/badge/MySQL-%234479A1?style=for-the-badge&logo=mysql&logoColor=white)
+	![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+
+
+<br>
+
 - **Softwares and Tools**:
 
     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -84,6 +94,7 @@ I am a Data Engineer who turned his passion for computers into a career and life
 
     ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
     ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)   
+	![Excel](https://img.shields.io/badge/Excel-%23217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
 
 </p>
@@ -91,12 +102,12 @@ I am a Data Engineer who turned his passion for computers into a career and life
 <br>
 <br>
 
------
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <br>
 
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats</b>
 <br>
 
 <div align="center">
@@ -112,12 +123,12 @@ I am a Data Engineer who turned his passion for computers into a career and life
 <br>
 <br>
 
------
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <br>
 <br>
 
-## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
+## <b> Let's Connect!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
 <div align='left'>
 
