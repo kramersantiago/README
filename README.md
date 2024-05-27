@@ -77,6 +77,14 @@ I am a Data Engineer who turned his passion for computers into a career and life
 	![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 
+<br>
+
+- **Data Analytics**
+
+	![Power BI](https://img.shields.io/badge/Power%20BI-%23F2C811?style=for-the-badge&logo=power%20bi&logoColor=black)
+	![Excel](https://img.shields.io/badge/Excel-%23217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+	![Tableau](https://img.shields.io/badge/Tableau-%23E97627?style=for-the-badge&logo=tableau&logoColor=white)
+
 
 <br>
 
@@ -94,7 +102,9 @@ I am a Data Engineer who turned his passion for computers into a career and life
 
     ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
     ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)   
-	![Excel](https://img.shields.io/badge/Excel-%23217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+	![Trello](https://img.shields.io/badge/Trello-%230052CC?style=for-the-badge&logo=trello&logoColor=white)
+	![Notion](https://img.shields.io/badge/Notion-%23000000?style=for-the-badge&logo=notion&logoColor=white)
+	![Slack](https://img.shields.io/badge/Slack-%234A154B?style=for-the-badge&logo=slack&logoColor=white)
 
 
 </p>
@@ -148,7 +158,14 @@ I am a Data Engineer who turned his passion for computers into a career and life
 <img src="https://img.shields.io/badge/gmail:  kramersantiagotomas@gmail.com-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
 </a>
 </li>
+
+
+<br>
+
+<li>
 	
+<img src="https://img.shields.io/badge/Discord%3A%20kramersantiago-%235865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+</li>
 </ul>
 </div>
 
