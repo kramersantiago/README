@@ -1,4 +1,4 @@
-
+![Banner](github-header.png)
 ---
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Be+welcome..&hearts;;Data+Engineer;Systems+Engineering+student;Active+learner/researcher;Love+to+learn+new+stuffs"></a>
@@ -30,37 +30,53 @@ I am a Data Engineer who turned his passion for computers into a career and life
     
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
     ![SQL](https://img.shields.io/badge/SQL-red?style=for-the-badge&logo=SQL)
-  
 
 
 <br>   
 
 - **Libraries**
 
-  ![Pandas](https://img.shields.io/badge/Pandas-%23150458?style=for-the-badge&logo=pandas)
-  ![NumPy](https://img.shields.io/badge/NumPy-%23013243?style=for-the-badge&logo=numpy)
-  ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23306998?style=for-the-badge)
-  ![Seaborn](https://img.shields.io/badge/Seaborn-%23356998?style=for-the-badge)
-  ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-%23F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-  ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
-  ![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+	![Pandas](https://img.shields.io/badge/Pandas-%23150458?style=for-the-badge&logo=pandas)
+	![NumPy](https://img.shields.io/badge/NumPy-%23013243?style=for-the-badge&logo=numpy)
+ 	![Matplotlib](https://img.shields.io/badge/Matplotlib-%23306998?style=for-the-badge)
+ 	![Seaborn](https://img.shields.io/badge/Seaborn-%23356998?style=for-the-badge)
+	![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-%23F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+	![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
+	![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
 
 <br>
 
-- **Cloud Hosting**:
+- **Cloud**
 
-    ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
-    
+	![AWS](https://img.shields.io/badge/AWS-%23232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+	![Redshift](https://img.shields.io/badge/Redshift-%238C4FFF?style=for-the-badge&logo=amazonredshift&logoColor=white)
+	![S3](https://img.shields.io/badge/S3-%23569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+	![Lambda](https://img.shields.io/badge/Lambda-%23FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
+	![EC2](https://img.shields.io/badge/EC2-%23FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
+
+
+<br>
+
+- **Big Data**:
+
+	![Docker](https://img.shields.io/badge/Docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white)
+	![Hadoop](https://img.shields.io/badge/Hadoop-yellow?style=for-the-badge&logo=apache%20hadoop&logoColor=white)
+	![Airflow](https://img.shields.io/badge/Airflow-%23017CEE?style=for-the-badge&logo=apache%20airflow&logoColor=white)
+	![Hive](https://img.shields.io/badge/Hive-%23FDEE21?style=for-the-badge&logo=apache%20hive&logoColor=black)
+	![Kafka](https://img.shields.io/badge/Kafka-%23231F20?style=for-the-badge&logo=apache%20kafka&logoColor=white)
+	![Spark](https://img.shields.io/badge/Spark-%23E25A1C?style=for-the-badge&logo=apache%20spark&logoColor=white)
+
+
 <br>
 
 - **Softwares and Tools**:
 
     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-    ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
+	![Jupyter](https://img.shields.io/badge/Jupyter%20Notebook-%23F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
 
 <br>
 
