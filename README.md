@@ -39,21 +39,22 @@ I am a Data Engineer who turned his passion for computers into a career and life
 	![Pandas](https://img.shields.io/badge/Pandas-%23150458?style=for-the-badge&logo=pandas)
 	![NumPy](https://img.shields.io/badge/NumPy-%23013243?style=for-the-badge&logo=numpy)
  	![Matplotlib](https://img.shields.io/badge/Matplotlib-%23306998?style=for-the-badge)
+  	![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
  	![Seaborn](https://img.shields.io/badge/Seaborn-%23356998?style=for-the-badge)
 	![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-%23F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 	![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
-	![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+	![PySpark](https://img.shields.io/badge/PySpark-%23E25A1C?style=for-the-badge&logo=apache%20spark&logoColor=white)
 
 
 <br>
 
 - **Cloud**
 
-	![AWS](https://img.shields.io/badge/AWS-%23232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+	![AWS](https://img.shields.io/badge/AWS-%23232F3E?style=for-the-badge&logo=Amazon%20AWS&logoColor=white)
 	![Redshift](https://img.shields.io/badge/Redshift-%238C4FFF?style=for-the-badge&logo=amazonredshift&logoColor=white)
 	![S3](https://img.shields.io/badge/S3-%23569A31?style=for-the-badge&logo=amazons3&logoColor=white)
 	![Lambda](https://img.shields.io/badge/Lambda-%23FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
-![Glue](https://img.shields.io/badge/Glue-%238C4FFF?style=for-the-badge&logo=awsglue&logoColor=white)
+![Glue](https://img.shields.io/badge/Glue-%238C4FFF?style=for-the-badge&logo=AWS%20OrganizationS&logoColor=white)
 	![EC2](https://img.shields.io/badge/EC2-%23FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
 
 
@@ -62,7 +63,7 @@ I am a Data Engineer who turned his passion for computers into a career and life
 - **Big Data**:
 
 	![Docker](https://img.shields.io/badge/Docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white)
-	![Hadoop](https://img.shields.io/badge/Hadoop-yellow?style=for-the-badge&logo=apache%20hadoop&logoColor=white)
+	![Hadoop](https://img.shields.io/badge/Hadoop-%23FDEE21?style=for-the-badge&logo=apache%20hadoop&logoColor=black)
 	![Airflow](https://img.shields.io/badge/Airflow-%23017CEE?style=for-the-badge&logo=apache%20airflow&logoColor=white)
 	![Hive](https://img.shields.io/badge/Hive-%23FDEE21?style=for-the-badge&logo=apache%20hive&logoColor=black)
 	![Kafka](https://img.shields.io/badge/Kafka-%23231F20?style=for-the-badge&logo=apache%20kafka&logoColor=white)
